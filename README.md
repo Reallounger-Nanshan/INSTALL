@@ -1,0 +1,2 @@
+# INSTALL
+Some installation tutorial.
